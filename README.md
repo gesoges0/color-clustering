@@ -4,6 +4,7 @@
 <img src="https://github.com/elasticnet12345/color-clustering/blob/master/sa-val.jpg" alt="CC001" title="CC001" width=40%>
 
 ### k=1
+![cc001](./img/1-means-img.jpg)
 <table border="0">
 <tr>
   <td><img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/1-means-img.jpg" alt="CC001" title="CC001" width=60%>
