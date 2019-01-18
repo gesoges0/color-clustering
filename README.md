@@ -4,8 +4,14 @@
 <img src="https://github.com/elasticnet12345/color-clustering/blob/master/sa-val.jpg" alt="CC001" title="CC001" width=40%>
 
 ### k=1
-<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/1-means-img.jpg" alt="CC001" title="CC001" width=40%>
-<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/glaph-1.png" alt="CC001" title="CC001" width=40%>
+<table border="0">
+<tr>
+  <td><img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/1-means-img.jpg" alt="CC001" title="CC001" width=40%>
+  <td><img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/glaph-1.png" alt="CC001" title="CC001" width=40%>
+</td>
+</td>
+</tr>
+</table>
 
 ### k=2
 <img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/2-means-img.jpg" alt="CC002" title="CC002" width=40%>
