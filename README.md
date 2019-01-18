@@ -4,12 +4,12 @@
 <img src="https://github.com/elasticnet12345/color-clustering/blob/master/sa-val.jpg" alt="CC001" title="CC001" width=40%>
 
 ### k=1
-<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/1-means-img.jpg" alt="CC001" title="CC001" width=40%>
-<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/glaph-1.png" alt="CC001" title="CC001" width=40%>
+<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/1-means-img.jpg" alt="CC001" title="CC001" width=30%>
+<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/glaph-1.png" alt="CC001" title="CC001" width=30%>
 
 ### k=2
-<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/2-means-img.jpg" alt="CC002" title="CC002" width=40%>
-<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/glaph-2.png" alt="CC002" title="CC002" width=40%>
+<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/2-means-img.jpg" alt="CC002" title="CC002" width=30%>
+<img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/glaph-2.png" alt="CC002" title="CC002" width=30%>
 
 ### k=3
 <img src="https://github.com/elasticnet12345/color-clustering/blob/master/img/3-means-img.jpg" alt="CC003" title="CC003" width=40%>
